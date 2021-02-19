@@ -1,0 +1,13 @@
+{
+    "name": "Bookmarker",
+    "version": "1.0",
+    "description": "Simple bookmarking",
+    "permissions": [
+        "tabs",
+        "storage"
+    ],
+    "page_action": {
+        "default_popup": "index.html"
+      },
+    "manifest_version": 2
+  }
